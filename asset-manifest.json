@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raggeh/first-responsive-navbar.git/static/css/main.50221d45.css",
+    "main.js": "/Raggeh/first-responsive-navbar.git/static/js/main.559520cc.js",
+    "static/media/Raggeh.jpg": "/Raggeh/first-responsive-navbar.git/static/media/Raggeh.386bed9cb3c0d44899c6.jpg",
+    "static/media/logo.jpg": "/Raggeh/first-responsive-navbar.git/static/media/logo.a0c585a942cbfd7c60ca.jpg",
+    "index.html": "/Raggeh/first-responsive-navbar.git/index.html",
+    "main.50221d45.css.map": "/Raggeh/first-responsive-navbar.git/static/css/main.50221d45.css.map",
+    "main.559520cc.js.map": "/Raggeh/first-responsive-navbar.git/static/js/main.559520cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50221d45.css",
+    "static/js/main.559520cc.js"
+  ]
+}
